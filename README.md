@@ -6,7 +6,7 @@ Download Python terlebih dahulu, di website resmi [Python](https://www.python.or
 # Cara Input Menggunakan Python
 - Buka IDLE Python di pencarian
 
-![Gambar1](ss python/py1.PNG)
+![Gambar1](ss python/py1.png)
 
 - Kemudian klik 
 ```bash
@@ -14,7 +14,7 @@ Download Python terlebih dahulu, di website resmi [Python](https://www.python.or
 > New File
 ```
 
-![Gambar2](ss python/py2.PNG)
+![Gambar2](ss python/py2.png)
 
 - Setelah itu klik
 ```bash
@@ -22,18 +22,18 @@ Download Python terlebih dahulu, di website resmi [Python](https://www.python.or
 > Save
 ```
 
-![Gambar3](ss python/py3.PNG)
+![Gambar3](ss python/py3.png)
 
 - Untuk menyimpan file Python
 ```bash
 > "JANGAN LUPA MENGGUNAKAN .py"
 ```
 
-![Gambar4](ss python/py4.PNG)
+![Gambar4](ss python/py4.png)
 
 - Masukan koding yang kalian ingin gunakan
 
-![Gambar5](ss python/py4.PNG)
+![Gambar5](ss python/py4.png)
 
 - Kemudian klik Run untuk menjalankan program
 ```bash
@@ -41,11 +41,11 @@ Download Python terlebih dahulu, di website resmi [Python](https://www.python.or
 > Run Module
 ```
 
-![Gambar6](ss python/py6.PNG)
+![Gambar6](ss python/py6.png)
 
 # Output
 
-![Gambar7](ss python/py7.PNG)
+![Gambar7](ss python/py7.png)
 
 - Selesai
 
