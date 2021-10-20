@@ -43,7 +43,7 @@ Download Python terlebih dahulu, di website resmi [Python](https://www.python.or
 
 ![Gambar6](ss python/py6.PNG)
 
-## Output
+# Output
 
 ![Gambar7](ss python/py7.PNG)
 
