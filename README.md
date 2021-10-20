@@ -6,7 +6,7 @@ Download Python terlebih dahulu, di website resmi [Python](https://www.python.or
 # Cara Input Menggunakan Python
 - Buka IDLE Python di pencarian
 
-![Gambar 1](ss python/py1.png)
+![Gambar 1](ss python/py1.PNG)
 
 - Kemudian klik 
 ```bash
