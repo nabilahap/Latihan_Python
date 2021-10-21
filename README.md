@@ -7,7 +7,7 @@ Download Python terlebih dahulu, di website resmi [Python](https://www.python.or
 - Buka IDLE Python di pencarian
 
 
-![Gambar1](![py1](https://user-images.githubusercontent.com/92380488/138286181-0786fb69-7aad-4d36-9d78-f061256248b1.png))
+![py1](https://user-images.githubusercontent.com/92380488/138286181-0786fb69-7aad-4d36-9d78-f061256248b1.png))
 - Kemudian klik 
 ```bash
 > File
