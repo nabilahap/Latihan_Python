@@ -14,7 +14,7 @@ Download Python terlebih dahulu, di website resmi [Python](https://www.python.or
 > New File
 ```
 
-![Gambar2](ss python/py2.png)
+![py2](https://user-images.githubusercontent.com/92380488/138286682-b667f1ef-897f-4c7e-81e6-8d881d41960e.png)
 
 - Setelah itu klik
 ```bash
