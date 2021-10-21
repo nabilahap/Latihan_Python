@@ -22,18 +22,18 @@ Download Python terlebih dahulu, di website resmi [Python](https://www.python.or
 > Save
 ```
 
-![Gambar3](ss python/py3.png)
+![py3](https://user-images.githubusercontent.com/92380488/138286902-ee5a1859-b835-442b-8a25-7ab5cd67f856.png)
 
 - Untuk menyimpan file Python
 ```bash
 > "JANGAN LUPA MENGGUNAKAN .py"
 ```
 
-![Gambar4](ss python/py4.png)
+![py4](https://user-images.githubusercontent.com/92380488/138286934-b04957fe-f954-4b5f-aca0-9e749afc2af5.png)
 
 - Masukan koding yang kalian ingin gunakan
 
-![Gambar5](ss python/py5.png)
+![py5](https://user-images.githubusercontent.com/92380488/138287173-300e1dce-c594-45fd-9fb0-1b91c2b41eab.png)
 
 - Kemudian klik Run untuk menjalankan program
 ```bash
@@ -41,11 +41,11 @@ Download Python terlebih dahulu, di website resmi [Python](https://www.python.or
 > Run Module
 ```
 
-![Gambar6](ss python/py6.png)
+![py6](https://user-images.githubusercontent.com/92380488/138287111-779a6980-4c81-49c0-bab7-642e53235787.png)
 
 # Output
 
-![Gambar7](ss python/py7.png)
+![py7](https://user-images.githubusercontent.com/92380488/138287230-4b6dfebc-fbdb-4f4c-951a-fb8365f2837d.png)
 
 - Selesai
 
