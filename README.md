@@ -43,10 +43,10 @@ Download Python terlebih dahulu, di website resmi [Python](https://www.python.or
 
 ![py6](https://user-images.githubusercontent.com/92380488/138287111-779a6980-4c81-49c0-bab7-642e53235787.png)
 
-# Output
+## Output
 
 ![py7](https://user-images.githubusercontent.com/92380488/138287230-4b6dfebc-fbdb-4f4c-951a-fb8365f2837d.png)
 
 - Selesai
 
-## Terima Kasih
+# Terima Kasih
